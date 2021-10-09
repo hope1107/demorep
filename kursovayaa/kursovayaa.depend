@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1589993133 source:c:\users\hope\documents\caйнд\kursovayaa\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<stdlib.h>
+	<cstring>
+	<stdio.h>
+	<clocale>
+
